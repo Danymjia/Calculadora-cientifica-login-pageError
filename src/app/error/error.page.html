@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-toolbar color="danger">
+    <ion-title>Error</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div style="display: flex; justify-content: center; align-items: center; min-height: 100%;">
+    <ion-card color="danger">
+      <ion-card-header>
+        <ion-card-title>
+          <ion-icon size="large"></ion-icon>
+          <br>
+          Acceso Denegado
+        </ion-card-title>
+        </ion-card-header>
+        <p style="text-align: center;">Credenciales Incorrectas</p>
+        <p style="text-align: center;">Intenta nuevamente</p>
+
+      <ion-card-content>
+      <ion-button expand="block" color="light" (click)="goToLogin()">Volver a Intentar</ion-button>
+      </ion-card-content>
+    </ion-card>
+  </div>
+</ion-content>

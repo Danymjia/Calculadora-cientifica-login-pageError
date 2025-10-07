@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>Iniciar Sesión</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div style="display: flex; text-align: center; justify-content: center; align-items: center; min-height: 100%;">
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title>Login</ion-card-title>
+          </ion-card-header>
+
+      <ion-card-content>
+        <ion-item>
+          <ion-input
+            type="text" 
+            [(ngModel)]="username" 
+            placeholder="Ingresa tu usuario">
+          </ion-input>
+        </ion-item>
+
+        <ion-item>   
+          <ion-input style="margin-top: 10px;"
+            type="password" 
+            [(ngModel)]="password" 
+            placeholder="Ingresa tu contraseña">
+          </ion-input>
+        </ion-item>
+
+        <ion-button 
+          style="margin-top: 10px;"
+          expand="block" 
+          (click)="login()">
+          Iniciar Sesión
+        </ion-button>
+      </ion-card-content>
+    </ion-card>
+  </div>
+</ion-content>
