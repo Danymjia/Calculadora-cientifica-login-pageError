@@ -28,24 +28,29 @@ Integrantes: Daniel Mejía, Edwin Sarango
  
 ## Ejemplos del aplicativo
 - Login
-<img width="399" height="867" alt="image" src="https://github.com/user-attachments/assets/bca123f5-4953-4c53-81b7-ac2d3b874dd9" />
+
+![50adf0ac-77cd-4646-ad47-cb55e7054e6b](https://github.com/user-attachments/assets/8a161014-f677-40b5-81c1-b7e99adf0353)
 
 - Error
-<img width="400" height="875" alt="image" src="https://github.com/user-attachments/assets/90a52a7c-7e21-4d1a-b607-573bf2d3f80d" />
+![97a90942-ff35-4549-a5f9-7096c5240444](https://github.com/user-attachments/assets/9cad4b28-6816-4eaa-b19f-d5dbd15a5758)
+
 
 ##Operaciones
 
 - Ejecución
-<img width="398" height="873" alt="image" src="https://github.com/user-attachments/assets/81003c77-6e2d-4176-a061-6d4986300c01" />
+![WhatsApp Image 2025-10-07 at 4 58 10 PM](https://github.com/user-attachments/assets/155236b4-e7a2-48ae-8974-383c6c0b6d09)
 
 - Ejemplo de operación (multiplicación)
-<img width="395" height="877" alt="image" src="https://github.com/user-attachments/assets/c7e4d34c-f21e-4079-902c-c1bb0ac5760a" />
+ 
+![f02a3d8d-9bb4-4831-a043-a5b2b36da163](https://github.com/user-attachments/assets/5c024cb7-642c-473f-bf47-93daf7ad4041)
 
 - Ejemplo de operación científica (Raiz)
-<img width="402" height="880" alt="image" src="https://github.com/user-attachments/assets/18a21ba3-f182-4e20-8744-095d9500a3d8" />
-  
+
+![421c0148-6cf5-4441-9fa2-bfd400ea9908](https://github.com/user-attachments/assets/b528fc70-7111-4df8-b9b3-fd5fba7b2a84)
+
 - Ejemplo de operación avanzada (Coseno)
-<img width="403" height="875" alt="image" src="https://github.com/user-attachments/assets/9fa03eb8-48fe-49ca-82d3-058c7a5e7ced" />
+
+![56e27cf0-ed96-46e5-bb8b-4e5275d59d6e](https://github.com/user-attachments/assets/8ce686c3-c854-49fd-8463-eaf8e5501b81)
 
 
 
