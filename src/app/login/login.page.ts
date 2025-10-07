@@ -15,7 +15,7 @@ export class LoginPage {
   username: string = '';
   password: string = '';
 
-  private readonly VALID_USERNAME = 'admin';
+  private readonly VALID_USERNAME = 'admin'; //hola 
   private readonly VALID_PASSWORD = 'admin123';
 
   constructor(private router: Router) {}
