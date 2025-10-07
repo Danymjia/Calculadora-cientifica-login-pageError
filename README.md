@@ -32,12 +32,14 @@ Integrantes: Daniel Mejía, Edwin Sarango
 ![50adf0ac-77cd-4646-ad47-cb55e7054e6b](https://github.com/user-attachments/assets/8a161014-f677-40b5-81c1-b7e99adf0353)
 
 - Error
+
 ![97a90942-ff35-4549-a5f9-7096c5240444](https://github.com/user-attachments/assets/9cad4b28-6816-4eaa-b19f-d5dbd15a5758)
 
 
 ##Operaciones
 
 - Ejecución
+
 ![WhatsApp Image 2025-10-07 at 4 58 10 PM](https://github.com/user-attachments/assets/155236b4-e7a2-48ae-8974-383c6c0b6d09)
 
 - Ejemplo de operación (multiplicación)
