@@ -1,13 +1,14 @@
 # Calculadora Científica
 
 Una aplicación móvil desarrollada con Ionic Angular que incluye un sistema de login y una calculadora científica completa.
+Integrantes: Daniel Mejía, Edwin Sarango
 
 ## Características
 
 ### Sistema de Autenticación
 - **Login con credenciales quemadas:**
   - Usuario: `admin`
-  - Contraseña: `1234`
+  - Contraseña: `admin123`
 - Pantalla de error para credenciales incorrectas
 - Navegación automática según el resultado del login
 
@@ -18,14 +19,11 @@ Una aplicación móvil desarrollada con Ionic Angular que incluye un sistema de 
   - Logarítmicas: log, ln
   - Potenciación: x^y
   - Raíz cuadrada: √
-  - Factorial: x!
   - Constantes: π, e
   - Porcentaje: %
  
 - **Interfaz intuitiva:**
   - Pantalla grande y clara
-  - Modo científico expandible/colapsable
-  - Botón de logout
   - Animaciones suaves
  
 ## Ejemplos del aplicativo
@@ -59,7 +57,6 @@ src/app/
 ├── login/           # Página de inicio de sesión
 ├── error/           # Página de error para login fallido
 ├── home/            # Pagina de la lógica de la calculadora
-├── calculator/      # Calculadora científica
 └── app.routes.ts    # Configuración de rutas
 ```
 
@@ -92,15 +89,14 @@ src/app/
    - Botón para volver al login
    - Recordatorio de las credenciales correctas
 
-3. **Calculadora Científica** (`/calculator`)
+3. **Calculadora Científica** (`/home`)
    - Acceso solo después de login exitoso
    - Funciones básicas y científicas
-   - Botón de logout en la barra superior
 
 ## Credenciales de Prueba
 
 - **Usuario:** admin
-- **Contraseña:** 1234
+- **Contraseña:** admin123
 
 ## Funciones de la Calculadora
 
@@ -118,7 +114,6 @@ src/app/
 - `log` Logaritmo base 10
 - `ln` Logaritmo natural
 - `√` Raíz cuadrada
-- `x!` Factorial
 - `x^y` Potenciación
 - `π` Constante Pi
 - `e` Constante de Euler
@@ -126,9 +121,7 @@ src/app/
 
 ### Controles
 - `C` Limpiar todo
-- `⌫` Borrar último carácter
-- `.` Punto decimal
-- `()` Paréntesis (modo científico)
+
 
 ## Desarrollo
 
